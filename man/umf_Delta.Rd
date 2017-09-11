@@ -56,3 +56,4 @@ function(Final, Initial, n = 6, Data, method = "delta"){
     return(deltaMin)
   }
 }
+}
