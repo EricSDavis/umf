@@ -68,3 +68,4 @@ function(Final, Initial, n = 6, Data){
   formula <- (Y2 - (slope*(X2-X1)+Y1))
   return(formula)
 }
+}
