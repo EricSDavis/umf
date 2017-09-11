@@ -54,3 +54,4 @@ function(Final, Initial, n = 6, Data, PeakName = delta_peak, PlateauName = delta
   colnames(peak_plat) <- c(PeakName, PlateauName)
   return(peak_plat)
 }
+}
