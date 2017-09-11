@@ -62,3 +62,4 @@ function (Timepoint1, Timepoint2, n, Data){
   Diff <- Diff[2:length(Diff)]
   return(Diff)
 }
+}
