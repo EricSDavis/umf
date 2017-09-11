@@ -48,3 +48,4 @@ function(Timepoint, n, Data){
   Average <- Average[2:length(Average)]
   return(Average)
 }
+}
