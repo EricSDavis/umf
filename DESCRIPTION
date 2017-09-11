@@ -1,0 +1,9 @@
+Package: umf
+Type: Package
+Title: A set of utilities, models, and functions for data analysis in R
+Version: 2.0
+Date: 2017-09-10
+Author: Eric S. Davis <ericscottdavis@outlook.com>
+Maintainer: Eric S. Davis <ericscottdavis@outlook.com>
+Description: The umf package contains functions that analyze slices of data from a data frame.
+License: GPL-2
