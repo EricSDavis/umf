@@ -1,7 +1,7 @@
 umf_Potentiator <- 
 function(Final, Initial, n = 6, Data){
   slice <- umf_Slice(Initial, Final, Data)
-  begining <- umf_PreviousValues(Initial, n-2, Isc)[length(umf_PreviousValues(Initial, n-2, Data))]
+  begining <- umf_PreviousValues(Initial, n-2, Data)[length(umf_PreviousValues(Initial, n-2, Data))]
   slice2 <- umf_Slice(begining, Initial, Data)
   Y2 <- c()
   X2 <- c()
