@@ -32,13 +32,8 @@ This function takes a file_path leading to an xls or xlsx file containing Ussing
 The value returned is an object of class 'Ussing'.
 }
 \references{
-@Manual{,
-    title = {readxl: Read Excel Files},
-    author = {Hadley Wickham and Jennifer Bryan},
-    year = {2017},
-    note = {R package version 1.0.0},
-    url = {https://CRAN.R-project.org/package=readxl},
-  }
+Hadley Wickham and Jennifer Bryan (2017). readxl: Read Excel Files. R package
+  version 1.0.0. https://CRAN.R-project.org/package=readxl
 }
 \author{
 Eric S. Davis
