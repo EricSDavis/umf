@@ -19,7 +19,6 @@ A list of one or more items to be searched against by Seq1
   \item{unique}{
 If unique=T, only the unique results will be displayed
 }
-\arguments{
   \item{partial}{
 If partial=T, partial matching will be returned. If partial=F, strict matching (perfect matches) will be returned.
 }
